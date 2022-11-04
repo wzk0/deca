@@ -48,12 +48,6 @@
         "cover": "https://ghproxy.com/https://raw.githubusercontent.com/wzk0/deca/main/songs/浴室 (LP version)/cover.png"
     },
     {
-        "name": "cover.png",
-        "al": "浴室 (LP version)",
-        "url": "https://ghproxy.com/https://raw.githubusercontent.com/wzk0/deca/main/songs/浴室 (LP version)/cover.png",
-        "cover": "https://ghproxy.com/https://raw.githubusercontent.com/wzk0/deca/main/songs/浴室 (LP version)/cover.png"
-    },
-    {
         "name": "蓝色 (LP version)",
         "al": "浴室 (LP version)",
         "url": "https://ghproxy.com/https://raw.githubusercontent.com/wzk0/deca/main/songs/浴室 (LP version)/蓝色 (LP version).mp3",
@@ -87,12 +81,6 @@
         "name": "眼睛里",
         "al": "Go Slow",
         "url": "https://ghproxy.com/https://raw.githubusercontent.com/wzk0/deca/main/songs/Go Slow/眼睛里.mp3",
-        "cover": "https://ghproxy.com/https://raw.githubusercontent.com/wzk0/deca/main/songs/Go Slow/cover.png"
-    },
-    {
-        "name": "cover.png",
-        "al": "Go Slow",
-        "url": "https://ghproxy.com/https://raw.githubusercontent.com/wzk0/deca/main/songs/Go Slow/cover.png",
         "cover": "https://ghproxy.com/https://raw.githubusercontent.com/wzk0/deca/main/songs/Go Slow/cover.png"
     },
     {
@@ -156,21 +144,9 @@
         "cover": "https://ghproxy.com/https://raw.githubusercontent.com/wzk0/deca/main/songs/鸟鸟鸟 Bird and Reflections/cover.png"
     },
     {
-        "name": "cover.png",
-        "al": "鸟鸟鸟 Bird and Reflections",
-        "url": "https://ghproxy.com/https://raw.githubusercontent.com/wzk0/deca/main/songs/鸟鸟鸟 Bird and Reflections/cover.png",
-        "cover": "https://ghproxy.com/https://raw.githubusercontent.com/wzk0/deca/main/songs/鸟鸟鸟 Bird and Reflections/cover.png"
-    },
-    {
         "name": "大雨",
         "al": "大雨",
         "url": "https://ghproxy.com/https://raw.githubusercontent.com/wzk0/deca/main/songs/大雨/大雨.mp3",
-        "cover": "https://ghproxy.com/https://raw.githubusercontent.com/wzk0/deca/main/songs/大雨/cover.png"
-    },
-    {
-        "name": "cover.png",
-        "al": "大雨",
-        "url": "https://ghproxy.com/https://raw.githubusercontent.com/wzk0/deca/main/songs/大雨/cover.png",
         "cover": "https://ghproxy.com/https://raw.githubusercontent.com/wzk0/deca/main/songs/大雨/cover.png"
     },
     {
@@ -189,12 +165,6 @@
         "name": "夏夜晚风",
         "al": "3 Songs",
         "url": "https://ghproxy.com/https://raw.githubusercontent.com/wzk0/deca/main/songs/3 Songs/夏夜晚风.mp3",
-        "cover": "https://ghproxy.com/https://raw.githubusercontent.com/wzk0/deca/main/songs/3 Songs/cover.png"
-    },
-    {
-        "name": "cover.png",
-        "al": "3 Songs",
-        "url": "https://ghproxy.com/https://raw.githubusercontent.com/wzk0/deca/main/songs/3 Songs/cover.png",
         "cover": "https://ghproxy.com/https://raw.githubusercontent.com/wzk0/deca/main/songs/3 Songs/cover.png"
     },
     {
@@ -246,12 +216,6 @@
         "cover": "https://ghproxy.com/https://raw.githubusercontent.com/wzk0/deca/main/songs/浴室/cover.png"
     },
     {
-        "name": "cover.png",
-        "al": "浴室",
-        "url": "https://ghproxy.com/https://raw.githubusercontent.com/wzk0/deca/main/songs/浴室/cover.png",
-        "cover": "https://ghproxy.com/https://raw.githubusercontent.com/wzk0/deca/main/songs/浴室/cover.png"
-    },
-    {
         "name": "梦",
         "al": "浴室",
         "url": "https://ghproxy.com/https://raw.githubusercontent.com/wzk0/deca/main/songs/浴室/梦.mp3",
@@ -270,21 +234,9 @@
         "cover": "https://ghproxy.com/https://raw.githubusercontent.com/wzk0/deca/main/songs/雾散去的时候/cover.png"
     },
     {
-        "name": "cover.png",
-        "al": "雾散去的时候",
-        "url": "https://ghproxy.com/https://raw.githubusercontent.com/wzk0/deca/main/songs/雾散去的时候/cover.png",
-        "cover": "https://ghproxy.com/https://raw.githubusercontent.com/wzk0/deca/main/songs/雾散去的时候/cover.png"
-    },
-    {
         "name": "浴室(2019 Reprise)",
         "al": "浴室 (2019 Reprise)",
         "url": "https://ghproxy.com/https://raw.githubusercontent.com/wzk0/deca/main/songs/浴室 (2019 Reprise)/浴室(2019 Reprise).mp3",
-        "cover": "https://ghproxy.com/https://raw.githubusercontent.com/wzk0/deca/main/songs/浴室 (2019 Reprise)/cover.png"
-    },
-    {
-        "name": "cover.png",
-        "al": "浴室 (2019 Reprise)",
-        "url": "https://ghproxy.com/https://raw.githubusercontent.com/wzk0/deca/main/songs/浴室 (2019 Reprise)/cover.png",
         "cover": "https://ghproxy.com/https://raw.githubusercontent.com/wzk0/deca/main/songs/浴室 (2019 Reprise)/cover.png"
     }
 ]
